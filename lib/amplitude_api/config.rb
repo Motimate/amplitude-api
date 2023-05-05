@@ -33,7 +33,7 @@ class AmplitudeAPI
           carrier region city dma language
           location_lat location_lng
           idfa idfv adid android_id
-          event_id session_id
+          event_id session_id plan
         ]
       end
 
